@@ -1,6 +1,6 @@
-#lesson1 
+# lesson1 
 
-##Drawing of a computer
+## Drawing of a computer
 This is my drawing of a computer wednseday 25th august 2021
 
-![](alvins computer.jpg)
+![]()
